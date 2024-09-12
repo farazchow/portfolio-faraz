@@ -6,13 +6,13 @@ hero:
   name: "Faraz Chowdhury's Portfolio"
   text: "6.1040 Fall 2024"
   tagline: '"What''s a tagline?"'
-  actions:
-    - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
-    - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+  # actions:
+  #   - theme: brand
+  #     text: Template Repository
+  #     link: "https://github.com/61040-fa24/vitepress-template"
+  #   - theme: alt
+  #     text: Example Site
+  #     link: "https://61040-fa24.github.io/portfolio-dhua/"
 
 features:
   - title: Blogs
