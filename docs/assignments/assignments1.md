@@ -30,7 +30,7 @@ Caroline is a Neuroscience PHD student who just moved to Baltimore. Caroline has
 
 For these interviews, I decided to take notes using my ipad, as well as recording our conversations. I received consent from both participants to record, however they were not comfortable with these recordings being posted.
 
-[![Interview Notes](Link)](../pdfs/6.1040_A1.pdf)
+<!-- [![Interview Notes](Link)](../pdfs/6.1040_A1.pdf) -->
 
 ## Interview Report
 
