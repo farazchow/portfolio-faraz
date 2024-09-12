@@ -29,3 +29,5 @@ You will have to install [Node.js](https://nodejs.org/en/) **v18** to use this t
 8. Add and commit all your files, then push to the `main` branch. You should see your site at `https://<your-github-username>.github.io/<your-repo-name>/`, e.g. [https://huadana1.github.io/portfolio-dhua/](https://huadana1.github.io/portfolio-dhua/) _(It's possible that your site might initially load with no CSS applied. If this happens, just give it a few minutes then refresh the page.)_
 
 If you have trouble with any of these steps, check through the guide to make sure you didn't skip any steps, and then check Discourse or attend studio hours so a TA can help you out :smile:
+
+[Actual Page](https://farazchow.github.io/portfolio-faraz/)
